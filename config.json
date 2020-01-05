@@ -1,0 +1,22 @@
+{
+    "ojlist": ["toj","uva","tioj"],
+    "problems": ["toj:98","uva:11635","uva:543","uva:11521","toj:14","tioj:1161","tioj:1294"],
+    "users": [
+        {
+            "name": "lys0829",
+            "oj": {
+                "toj": "139",
+                "tioj": "dc1020090",
+                "uva": "lys0829"
+            }
+        },
+        {
+            "name": "yojahuang",
+            "oj": {
+                "toj": "2254",
+                "tioj": "yojahuang",
+                "uva": "yojahuang"
+            }
+        }
+    ]
+}
